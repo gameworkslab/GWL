@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Custom Ignore
+.vs/
+GWL/GWL.vcxproj.user
